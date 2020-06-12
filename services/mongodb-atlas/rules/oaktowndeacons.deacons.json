@@ -1,0 +1,16 @@
+{
+    "database": "oaktowndeacons",
+    "collection": "deacons",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "read": true,
+            "write": false,
+            "insert": false,
+            "delete": false,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}
